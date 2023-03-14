@@ -1,0 +1,41 @@
+{
+    "PROJECT_NAME": "open-punks",
+    "PROJECT_ADDRESS": "0x953B4b10182b4a778476c754fd6b88928AD5E197",
+    "NETWORKS": {
+        "1": {
+            "name": "Ethereum Mainnet",
+            "isTestnet": false,
+            "explorerURL": "https://etherscan.io",
+            "looksrareURL": "https://looksrare.org",
+            "PROJECT_ADDRESS": ""
+        },
+        "5": {
+            "name": "Goerli Testnet",
+            "isTestnet": true,
+            "explorerURL": "https://goerli.etherscan.io",
+            "looksrareURL": "https://goerli.looksrare.org",
+            "PROJECT_ADDRESS": "0x953B4b10182b4a778476c754fd6b88928AD5E197"
+        },
+        "80001": {
+            "name": "Mumbai Testnet",
+            "isTestnet": true,
+            "explorerURL": "https://mumbai.polygonscan.com",
+            "looksrareURL": "https://looksrare.org",
+            "PROJECT_ADDRESS": ""
+        },
+        "137": {
+            "name": "Polygon Mainnet",
+            "isTestnet": false,
+            "explorerURL": "https://polygonscan.com",
+            "looksrareURL": "https://looksrare.org",
+            "PROJECT_ADDRESS": ""
+        },
+        "5777": {
+            "name": "Localhost",
+            "isTestnet": true,
+            "explorerURL": null,
+            "looksrareURL": null,
+            "PROJECT_ADDRESS": ""
+        }
+    }
+}
